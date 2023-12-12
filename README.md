@@ -11,6 +11,7 @@
 <h2> Punto 1: Link figma</h2>
 
 <a href="" target="_blank">Link de Figma</a>
+
 <h2> Punto 2: HTML</h2>
 <img src="./public/images/html.png" alt="html">
 
